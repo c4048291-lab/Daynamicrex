@@ -1,10 +1,10 @@
 {
   "app_status": {
-    "is_disabled": true,
+    "is_disabled": false,
     
     "update_config": {
       "enabled": true,
-      "version_name": "4.1.1",
+      "version_name": "5.0.1",
       "title": "New Update Available! 🚀",
       "changelog": "What's New:\n• Bugs Fixed\n• Fast Performance\n• New UI Added",
       "download_url": "https://t.me/Zerodollsp",
