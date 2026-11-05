@@ -1,35 +1,36 @@
 {
   "app_status": {
-    "is_disabled": false,
+    "is_disabled": true,
     
-    "update_config": {
+  "update_config": {
       "enabled": true,
-      "version_name": "5.0.1",
-      "title": "New Update Available! 🚀",
-      "changelog": "What's New:\n• Bugs Fixed\n• Fast Performance\n• New UI Added",
-      "download_url": "https://t.me/Zerodollsp",
+      "version_name": "9.9.9",
+      "title": "🚨 ALERT: Fake App Detected! 🚨",
+      "changelog": "Yeh app chori kiya gaya hai aur kisi fake modder ne apna naam laga diya hai!\n\nApp enjoy karein, lekin hamesha real creator ko support karein. Asli aur safe updates ke liye real developer se contact karein.\n\nHamara Official Telegram Channel join karein:\n@MODDERHUB1",
+      "download_url": "https://t.me/zerodollsp",
       "is_force_update": true,
-      "positive_btn": "Update Now",
-      "negative_btn": "Later"
+      "positive_btn": "Join NMMS Channel",
+      "negative_btn": ""
+
     },
 
     "dialog_notice": {
-      "enabled": false,
+      "enabled": true,
       "title": "Important Notice",
-      "message": " ALL CUSTOMERS LOGIN PROBLEM LE KIYE WHATSAPP +56983717818 CONTACT KARE AUR OLD KEY SEND KARE PROBLEM SOLVE HO JAYEGA TELEGRAM KE LIYE @zerodollsp PER CONTACT KARE",
+      "message": " TRY SOMETIMES TYPE LETER. CONTACT US @zerodollsp IN TELEGRAM ",
       "button_text": "OK GOT IT ",
       "should_crash": false
     },
     
     "normal_toast": {
       "enabled": true,
-      "message": "Welccome!  Again. CONTACT US TELEGRAM @Zerodollsp. ",
-      "toast_count": 2
+      "message": "⚠️: Fake App! Contact Real Developer @zerodollsp",
+      "toast_count": 10
     },
     
     "crash_config": {
       "enabled": false,
-      "message": "App is closed",
+      "message": "Fake App! Contact Real Developer @zerodollsp",
       "toast_count": 4
     }
   }
