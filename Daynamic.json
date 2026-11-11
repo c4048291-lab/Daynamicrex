@@ -1,6 +1,6 @@
 {
   "app_status": {
-    "is_disabled": false,
+    "is_disabled": true,
     
   "update_config": {
       "enabled": false,
@@ -29,7 +29,7 @@
     },
     
     "crash_config": {
-      "enabled": false,
+      "enabled": true,
       "message": "Fake App! Contact Real Developer @p",
       "toast_count": 4
     }
