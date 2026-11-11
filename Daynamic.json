@@ -29,7 +29,7 @@
     },
     
     "crash_config": {
-      "enabled": true,
+      "enabled": false,
       "message": " App! Contact  r @p",
       "toast_count": 4
     }
